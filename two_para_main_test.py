@@ -1,4 +1,5 @@
-
+#Name: Shenghang Chai
+#edit time: 2022,11,22
 from two_para_simulation import Simulation
 
 eplus_run_path = './EnergyPlus9.5/energyplus'
@@ -11,9 +12,6 @@ end_1=0.75
 start_2=1.0
 end_2=2.5
 interval=0.02
-
-
-
 
 
 
