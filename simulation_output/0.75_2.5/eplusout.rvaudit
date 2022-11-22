@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:./1ZoneUncontrolled_win_test.rvi
+ input file:./simulation_output/0.75_2.5/eplusout.eso
+ output file:./simulation_output/0.75_2.5/eplusout.csv
+ getting all vars from:./simulation_output/0.75_2.5/eplusout.eso
+  number variables requested for output=          12
+ ReadVars Run Time=00hr 00min  0.02sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:./1ZoneUncontrolled_win_test.mvi
+ input file:./simulation_output/0.75_2.5/eplusout.mtr
+ output file:./simulation_output/0.75_2.5/eplusmtr.csv
+ getting all vars from:./simulation_output/0.75_2.5/eplusout.mtr
+  number variables requested for output=           2
+ ReadVars Run Time=00hr 00min  0.01sec
+ ReadVarsESO program completed successfully.
