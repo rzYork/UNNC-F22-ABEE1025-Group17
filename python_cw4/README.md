@@ -1,5 +1,5 @@
-Student ID: 20413203
-Student Name: Ruizhe Huang
+Student ID: 20413203 20413337
+Student Name: Ruizhe Huang Shenghang Chai
 
 
 user guide.pdf
